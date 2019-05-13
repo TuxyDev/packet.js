@@ -1,6 +1,6 @@
 {
   "name": "packet.js",
-  "version": "2.0.1",
+  "version": "1.0.1",
   "description": "A Simple, Efficient Packet library.",
   "main": "index.js",
   "scripts": {
