@@ -1,0 +1,29 @@
+{
+  "name": "packet.js",
+  "version": "1.0.1",
+  "description": "A Simple, Efficient Packet library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuxyDev/packet.js.git"
+  },
+  "keywords": [
+    "Packet",
+    "Simple",
+    "JS",
+    "Discord",
+    "Game",
+    "Network",
+    "Encryption",
+    "Encoder"
+  ],
+  "author": "TuxyDev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TuxyDev/packet.js/issues"
+  },
+  "homepage": "https://github.com/TuxyDev/packet.js#readme"
+}
